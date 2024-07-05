@@ -1,4 +1,4 @@
-try build 0
+try build 1
 
 # overb0ard
 
